@@ -34,6 +34,8 @@ Pin Configurations:
 | LED 2                   | D9          |
 | LCD (I2C)               | SDA / SCL   |
 
+<img width="1272" height="822" alt="Circuit" src="https://github.com/user-attachments/assets/29377093-e18d-4f3f-b103-b5d1d5793e9c" />
+
 Code Structure Overview:
 Multi-page LCD UI system
 PageNo controls menu navigation
