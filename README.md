@@ -92,9 +92,9 @@ The system supports **multiple alarms**, **snooze functionality**, **visual + bu
 5. Power the circuit and start configuring alarms 
 
 ## Libraries Used
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
-#include <TimeLib.h>
+# include <Wire.h>
+# include <LiquidCrystal_I2C.h>
+# include <TimeLib.h>
 
 ##👤 Author
 
