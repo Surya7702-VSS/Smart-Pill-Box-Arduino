@@ -48,6 +48,10 @@ Alarm alert screens
 Snooze logic handled using minute offset (SN)
 Alarm lock using channel flags (Ch1–Ch4) to prevent repeat triggers
 
+![Sample Output 1](https://github.com/user-attachments/assets/ae8cd882-7546-43df-a3db-caad2854e108)
+![Sample Output 2](https://github.com/user-attachments/assets/69b6bf8e-0ccb-47a0-9428-ab06159e82fb)
+
+
 How to Run:
 Clone the repository
 git clone https://github.com/your-username/smart-pill-box-arduino
