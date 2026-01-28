@@ -84,8 +84,8 @@ The system supports **multiple alarms**, **snooze functionality**, **visual + bu
    git clone https://github.com/your-username/smart-pill-box-arduino
 
 
-2.Open smart_pill_box.ino in Arduino IDE
-3.Install required libraries:
+2. Open smart_pill_box.ino in Arduino IDE
+3. Install required libraries:
 - LiquidCrystal_I2C
 - TimeLib
 4. Upload the code to Arduino Uno
